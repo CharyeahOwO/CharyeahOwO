@@ -2,8 +2,7 @@
 
 > *Code is poetry, and servers are my castles.*
 
-我是慕棱，一个热衷于折腾 **全链路自托管 (Self-Hosting)**、**分布式架构** 和 **Linux 运维** 的极客。
-喜欢在 Arch Linux 上构建世界，偶尔也会为了修一个 Bug 而通宵魔改源码。
+喜欢纪乐凡
 
 ---
 
