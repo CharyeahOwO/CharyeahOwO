@@ -35,7 +35,7 @@
 
 - 🏠 **Blog**: [mulingowo.cn](https://mulingowo.cn)
 - 📝 **Moment**: [moment.mulingowo.cn](https://moment.mulingowo.cn) (My digital garden)
-- 📫 **Email**: *[Your Email Here]*
+- 📫 **Email**: Charyeah666@gmail.com
 
 <!--
 **CharyeahOwO/CharyeahOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
