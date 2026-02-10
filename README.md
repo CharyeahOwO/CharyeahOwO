@@ -25,8 +25,7 @@
 ### 🔭 Current Projects
 
 - **Muling Edition Memos**: A customized build of Memos with enhanced single-user experience.
-- **Distributed Minecraft Cluster**: Running on a hybrid architecture of Hong Kong VPS (Frontend) + Home Lab (Backend).
-- **TS3 Music Bot**: A customized audio bot integrated with Netease Cloud Music (UNM).
+- **Minecraft**: 喜欢玩安慕希，是个腐竹
 
 ---
 
