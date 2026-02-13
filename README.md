@@ -30,7 +30,6 @@
 ### 💬 Connect with me
 
 - 🏠 **Blog**: [mulingowo.cn](https://mulingowo.cn)
-- 📝 **Moment**: [moment.mulingowo.cn](https://moment.mulingowo.cn)
 - 📫 **Email**: [Charyeah666@gmail.com](mailto:Charyeah666@gmail.com)
 
 <!--
