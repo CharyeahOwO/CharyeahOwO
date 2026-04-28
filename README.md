@@ -1,7 +1,6 @@
 ### Hi there, I'm Muling (慕棱) 👋
 
 > 喜欢Tsusaki
-> > 喜欢折腾，并不精通任何代码，Python初学者
 
 
 ---
@@ -19,12 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Linux-Arch-1793D1?logo=archlinux&logoColor=white)
-
-### 🔭 Current Projects
-
-- **Minecraft Server Owner**: 小服主
-- **Self-Hosted Lab**: 维护着一套跨地域（香港 VPS + 家庭 Homelab）的分布式服务架构
-
 ---
 
 ### 💬 Connect with me
