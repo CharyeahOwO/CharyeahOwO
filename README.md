@@ -1,18 +1,20 @@
-### Hi there, I'm Muling / 慕棱 👋
+### Hi there, I'm Muling 👋
 
-喜欢折腾一些有意思的东西，也喜欢 Tsusaki。
+I like tinkering with random things, self-hosted services, Linux, Docker, and AI tools.
 
-平时会玩玩网站、Docker、Linux，还有一些 AI 工具。
-虽然不算很会写代码，但喜欢研究现成项目，偶尔也会给开源项目提点小 PR。
+Not really a professional developer, but I enjoy exploring open-source projects, breaking things, fixing things, and learning along the way.
+
+Also, I like Tsusaki.
 
 ---
 
 ### 🌱 About me
 
-- 🧩 喜欢折腾各种小项目
-- 🐧 Arch Linux / Docker / 服务器日常使用中
-- 📝 偶尔写点博客
-- 🤖 对 AI 工具和自建服务比较感兴趣
+- 🧩 I enjoy building and trying out small projects
+- 🐧 Arch Linux / Docker / servers are part of my daily tinkering
+- 📝 I occasionally write on my blog
+- 🤖 Interested in AI tools and self-hosted services
+- ☕ Still learning, slowly but surely
 
 ---
 
@@ -26,10 +28,10 @@
 
 ### 🧪 Open source
 
-偶尔会给喜欢的项目提一些小修改。
+Sometimes I make small contributions to projects I use or like.
 
 - [usememos/memos](https://github.com/usememos/memos)
-  - [PR #5605](https://github.com/usememos/memos/pull/5605): 修复 Explore 页面日历跳转路径问题
+  - [PR #5605](https://github.com/usememos/memos/pull/5605): Fixed the calendar navigation path on the Explore page
 
 ---
 
