@@ -37,7 +37,7 @@ Sometimes I make small contributions to projects I use or like.
 
 ### 💬 Contact
 
-- 🏠 Home:  [nyaovo.com](https://nyaovo.com/))
+- 🏠 Home:  [nyaovo.com](https://nyaovo.com/)
 - 📫 Email: [Charyeah666@gmail.com](mailto:Charyeah666@gmail.com)
 
 <!--
