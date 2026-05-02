@@ -37,7 +37,7 @@ Sometimes I make small contributions to projects I use or like.
 
 ### 💬 Contact
 
-- 🏠 Blog: [mulingowo.cn](https://mulingowo.cn)
+- 🏠 Home:  [nyaovo.com]([https://mulingowo.cn](https://nyaovo.com/))
 - 📫 Email: [Charyeah666@gmail.com](mailto:Charyeah666@gmail.com)
 
 <!--
